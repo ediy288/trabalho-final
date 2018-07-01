@@ -1,0 +1,12 @@
+C:\Users\casa\Desktop\recuperação edmundo\Uniplac.Avaliacao\Uniplac.Avaliacao.Dominio\bin\Debug\Uniplac.Avaliacao.Dominio.dll
+C:\Users\casa\Desktop\recuperação edmundo\Uniplac.Avaliacao\Uniplac.Avaliacao.Dominio\bin\Debug\Uniplac.Avaliacao.Dominio.pdb
+C:\Users\casa\Desktop\recuperação edmundo\Uniplac.Avaliacao\Uniplac.Avaliacao.Dominio\obj\Debug\Uniplac.Avaliacao.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\casa\Desktop\recuperação edmundo\Uniplac.Avaliacao\Uniplac.Avaliacao.Dominio\obj\Debug\Uniplac.Avaliacao.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\casa\Desktop\recuperação edmundo\Uniplac.Avaliacao\Uniplac.Avaliacao.Dominio\obj\Debug\Uniplac.Avaliacao.Dominio.dll
+C:\Users\casa\Desktop\recuperação edmundo\Uniplac.Avaliacao\Uniplac.Avaliacao.Dominio\obj\Debug\Uniplac.Avaliacao.Dominio.pdb
+C:\Users\User\Desktop\recuperação edmundo\Uniplac.Avaliacao\Uniplac.Avaliacao.Dominio\bin\Debug\Uniplac.Avaliacao.Dominio.dll
+C:\Users\User\Desktop\recuperação edmundo\Uniplac.Avaliacao\Uniplac.Avaliacao.Dominio\bin\Debug\Uniplac.Avaliacao.Dominio.pdb
+C:\Users\User\Desktop\recuperação edmundo\Uniplac.Avaliacao\Uniplac.Avaliacao.Dominio\obj\Debug\Uniplac.Avaliacao.Dominio.csprojAssemblyReference.cache
+C:\Users\User\Desktop\recuperação edmundo\Uniplac.Avaliacao\Uniplac.Avaliacao.Dominio\obj\Debug\Uniplac.Avaliacao.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\recuperação edmundo\Uniplac.Avaliacao\Uniplac.Avaliacao.Dominio\obj\Debug\Uniplac.Avaliacao.Dominio.dll
+C:\Users\User\Desktop\recuperação edmundo\Uniplac.Avaliacao\Uniplac.Avaliacao.Dominio\obj\Debug\Uniplac.Avaliacao.Dominio.pdb
